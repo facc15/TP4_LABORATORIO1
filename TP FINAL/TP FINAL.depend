@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1573148086 source:e:\tp final\tp final\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1572916906 e:\tp final\tp final\linkedlist.h
+
+1572987794 e:\tp final\tp final\employee.h
+	"LinkedList.h"
+
+1572916906 e:\tp final\tp final\parser.h
+
+1572916906 e:\tp final\tp final\utn.h
+
+1573018026 source:e:\tp final\tp final\employee.c
+	"Employee.h"
+	"utn.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1574462668 source:e:\tp final\tp final\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574462668 source:e:\tp final\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1572916906 e:\tp final\tp final\controller.h
+
+1574462304 source:e:\tp final\tp final\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1572916906 source:e:\tp final\tp final\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
